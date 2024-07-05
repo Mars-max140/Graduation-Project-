@@ -1,4 +1,4 @@
-# Graduation-Project
+# Network-X Project
 Project talks about an ethical pen-test to our academy (Modern Academy in Egypt).
 # INTRODUCTION
 This project is a combination between network administration and network security , Our team works on modern
