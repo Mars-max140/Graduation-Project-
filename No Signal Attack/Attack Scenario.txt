@@ -1,0 +1,38 @@
+No Signal Attack " Works "
+
+Attack Scenario
+---------------
+
+. After the Information Gathering we need to load on a server and firewall
+
+. We load by TCP-SYN flood DOS attack by hping3
+
+. The firewall of Academy Block us because detected there is unauthorized connections from our IP
+based on a high request we send
+
+. We make a Proxychains to make a fake of many IPs and hide our location that make the cloudflare
+server accept our request
+
+. Now we DOS attack and make a high load request on a DNS high load to make a server out
+on a Modern website
+
+. By the (setoolkit) a phishing attack we edit on this tool that we make us to connect with a real
+server after the client (student) connect to modern (http://mng.modern-academy.edu.eg)
+
+. We have chosen a right tine to have a load of students in Modern website, which causes the
+load on a server that help us to make our attack to 1) collect more data 2) Already there was
+a load on a server
+
+. After the student go to the website we attack it by DOS and by setoolkit connect the our
+website to Phishing him and if he login his ID & Password send to us and now we make him
+to go to the real server
+
+. We use all vulnerability of protocol that we know from the information gathering.
+
+. We are fully aware of what we are doing and all things we review with our supervisor.
+
+. All data that we collected from users (students) we taken their permissions that the attack
+would be carried out on them
+
+. At the end Network-X our team goals we discovers all vulnerability and threats to make a
+high secure connection of our College Modern Academy for Computer Science
